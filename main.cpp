@@ -8,7 +8,7 @@
 
 #include "Application3D.hpp"
 
-int main(int argc, const char* argv[]) {
+int main() {
   Application3D app;
   app.run();
   return 0;

@@ -27,9 +27,15 @@ Application& Application::getInstance() {
     throw std::runtime_error("There is no current Application");
 }
 
+static void glfwError(int id, const char* description) {
+  cout << description << endl;
+}
+
 Application::Application()
     : state(stateReady), width(640), height(480), title("Application") {
   currentApplication = this;
+
+  glfwSetErrorCallback(&glfwError);
 
   cout << "[Info] GLFW initialisation" << endl;
 
