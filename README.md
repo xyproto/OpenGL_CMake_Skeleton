@@ -1,5 +1,5 @@
-OpenGL CMake Skeleton :
-=======================
+OpenGL Sakemake Skeleton
+========================
 
 A ready to use C++17 skeleton using **GLFW**, **Glew** and **glm**.
 
