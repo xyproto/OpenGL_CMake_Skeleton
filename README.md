@@ -23,7 +23,7 @@ Requirements
 Troubleshooting
 ===============
 
-If the application crashes, check that your OpenGL drivers are >= 3.0.
+If the application crashes and you are using Wayland, make sure to install glfw and glew with Wayland support.
 
 Building and running
 ====================
