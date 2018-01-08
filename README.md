@@ -20,9 +20,7 @@ Requirements
 * OpenGL drivers (>=3.0)
 * One of the systems supported by Sakemake. Currently: Arch Linux, macOS w/ Homebrew, FreeBSD or Ubuntu 17.10
 * The `glew`, `glm` and `glfw` libraries.
-* If using Wayland:
-  * Install glfw for Wayland (`glfw-wayland` on Arch Linux).
-  * Install glew for Wayland (Build glew with `make SYSTEM=linux-egl`).
+* If using Wayland on Arch Linux, the `glfw-wayland` and `glew-wayland` packages are required.
 
 Troubleshooting
 ===============
