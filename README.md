@@ -3,7 +3,7 @@ OpenGL Sakemake Skeleton
 
 Ready to use C++17 skeleton using **glfw**, **glew**, **glm** and the configuration-free build system [sakemake](https://github.com/xyproto/sakemake).
 
-[![configuration-free](https://raw.githubusercontent.com/xyproto/sakemake/master/img/configuration_free_256.png)](https://github.com/xyproto/sakemake))
+[![configuration-free](https://raw.githubusercontent.com/xyproto/sakemake/master/img/configuration_free_256.png)](https://github.com/xyproto/sakemake)
 
 ![output result](img/output.gif)
 
