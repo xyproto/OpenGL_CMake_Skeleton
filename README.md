@@ -9,6 +9,8 @@ Shader and an Application class are included too.
 
 Builds using the configuration-free build system [Sakemake](https://github.com/xyproto/sakemake).
 
+This is a fork of [OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton) by Arthur Sonzogni (MIT licensed).
+
 Requirements
 ============
 * C++17 compiler (gcc >= 7.2 should work)
