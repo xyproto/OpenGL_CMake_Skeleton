@@ -1,6 +1,8 @@
 OpenGL Sakemake Skeleton
 ========================
 
+[![configuration-free](https://raw.githubusercontent.com/xyproto/sakemake/master/img/configuration_free_256.png)](https://github.com/xyproto/sakemake))
+
 A ready to use C++17 skeleton using **GLFW**, **Glew** and **glm**.
 
 Shader and an Application class are included too.
