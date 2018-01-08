@@ -1,15 +1,11 @@
 OpenGL Sakemake Skeleton
 ========================
 
+Ready to use C++17 skeleton using **glfw**, **glew**, **glm** and the configuration-free build system [sakemake](https://github.com/xyproto/sakemake).
+
 [![configuration-free](https://raw.githubusercontent.com/xyproto/sakemake/master/img/configuration_free_256.png)](https://github.com/xyproto/sakemake))
 
-A ready to use C++17 skeleton using **GLFW**, **Glew** and **glm**.
-
-Shader and an Application class are included too.
-
 ![output result](img/output.gif)
-
-Builds using the configuration-free build system [Sakemake](https://github.com/xyproto/sakemake).
 
 This is a fork of [OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton) by Arthur Sonzogni (MIT licensed).
 
